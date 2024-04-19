@@ -8,7 +8,7 @@
 name: OpenWrt-CI
 
 on:
-  push
+  push:
   
 permissions:
   contents: read
