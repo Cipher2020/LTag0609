@@ -1,4 +1,4 @@
-src-git small-package https://github.com/cipher2020/small-package
+src-git small-package https://github.com/cipher2020/small-package.git
 #src-git packages https://github.com/coolsnowwolf/packages
 #src-git luci https://github.com/coolsnowwolf/luci
 #src-git routing https://github.com/coolsnowwolf/routing
