@@ -4,6 +4,7 @@ uci set luci.main.lang=zh_cn
 uci commit luci
 
 uci set system.@system[0].timezone=CST-8
+uci set network.lan.ipaddr='192.168.5.1'
 uci set system.@system[0].zonename=Asia/Shanghai
 uci commit system
 
