@@ -1,7 +1,6 @@
 src-git packages https://github.com/coolsnowwolf/packages
 src-git luci https://github.com/cipher2020/luci
-src-git routing https://github.com/cipher2020/routing
-#src-git routing https://git.openwrt.org/feed/routing.git^a7b79a1d4fce4f443854115ee4b2ed2aafba5c06
+src-git routing https://github.com/coolsnowwolf/routing
 src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git helloworld https://github.com/fw876/helloworld.git
 #src-git oui https://github.com/zhaojh329/oui.git
